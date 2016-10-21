@@ -38,7 +38,7 @@ a{4,7} | aaaa(a + a)(a + a)(a + a) | określony zakres liczby powtórzeń (tutaj
 ___
 
 A co gdy chcemy szukać np *****. Wtedy z pomocą przychodzi tzw. _escape charcter_. Jest to **\**.
-***** zapiszemy więc tak **\\***.
+**\*** zapiszemy więc tak **\\***.
 
 Dzięki wykorzystaniu **\** mamy do dyspozycji dodatkowe specjalne znaki.
 Oto one:
