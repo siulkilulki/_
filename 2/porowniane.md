@@ -17,7 +17,7 @@ Natomiast **C** z bardzo popularną i powszechnie używaną biblioteką **GLib**
 + tryb case-insensitive
 + oba nie wspierają tzw. _free spacing syntax_
 
-##### C ma Javascript nie ma
+##### C ma, Javascript nie ma
 + warunkowe wyrażenia regularne!
 + rekursja
 + lookbehind
