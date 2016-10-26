@@ -1,9 +1,10 @@
-## Notatki z wykładu nr 3
+# Notatki z wykładu nr 3
 
-#### Podstawy teoretyczne
+### Podstawy teoretyczne
 
 **Gramatyka** - sposób opisu podzbioru wszystkich słów skończonej długości nad danym __alfabetem__.
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Np **alfabet** to  {_ jeden, mały, trzy _}.
+ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Np **alfabet** to  {_ jeden, mały, trzy _}.
 
 __Gramatyka formalna__ składa się z:
 + Symboli terminalnych
@@ -21,22 +22,22 @@ Symbol startowy - **S**
 Symbole nieterminalne - **A**, **B**
 Symbole terminalne - **{** a, b  __}__
 
-**Reguły**:
-S -> aA
-A -> bA
+**Reguły**:<br>
+S -> aA<br>
+A -> bA<br>
 A -> b
 
 Jest to gramatyka bezkontekstowa która umożliwia wygenerowanie słów postaci **ab**, __abb__, **abbb** itd.
 
-#### Analiza leksykalna
+### Analiza leksykalna
 __Analiza leksykalna__ jest to proces przetwarzania sekwencji znaków w sekwencję tokenów.
 Analizą leksykalną zajmuje się program zwany **lekserem**.
 
-#### Analiza składniowa
+### Analiza składniowa
 **Analiza składniowa** lub inaczej również __parsowanie__ służy sprawdzaniu czy wejście jest zgodne z regułami gramatyki.
 Analizą składniową zajmuje się program zwany **parserem**.
 
-#### Narzędzia
+### Narzędzia
 Popularne narzędzia do analizy składniowej to np:
 + **Lex** - dla języka C/C++.
 + **JavaCC** - dla języka Java. Obsługuje Unicode.
