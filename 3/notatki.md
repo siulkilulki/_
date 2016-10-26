@@ -3,7 +3,7 @@
 ### Podstawy teoretyczne
 
 **Gramatyka** - sposób opisu podzbioru wszystkich słów skończonej długości nad danym __alfabetem__.
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Np **alfabet** to  {_ jeden, mały, trzy _}.
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Np **alfabet** to  {_jeden, mały, trzy_}.
 
 __Gramatyka formalna__ składa się z:
 + Symboli terminalnych
