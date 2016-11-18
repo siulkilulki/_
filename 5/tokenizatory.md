@@ -46,6 +46,7 @@ __Idealny rezultat__:
 ```
 
 __Wyniki__
+
 Żaden z tokenizatorów nie traktuje nazw własnych, w tym przypadku miast jako tokenów tylko dzieli je na odrębne tokeny. Szkoda.
 
 ### Problemy z "myślnikiem" i "łącznikiem"
@@ -57,6 +58,7 @@ __Idealny rezultat__:
 [Lower-case] [letters] [incomprehensibilities] [.]
 ```
 __Wyniki__
+
 Żaden z tokenizerów nie uznał _incomprehensibilities_ jako jednego tokena.
 Za to wszystkie prócz WordPunctTokenizer'a dały sobie radę z zaklasyfikowaniem *Lower-case* jako jednego tokena.
 
