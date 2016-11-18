@@ -5,6 +5,7 @@
 ^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$
 ```
 **Przykład dopasowania:** _dawjur@st.amu.edu.pl_
+
 **Nie dopasuje:** _dawjur@st.wiecejnizszesc_
 
 #### Dopasowanie URL
@@ -12,6 +13,7 @@
 ^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$
 ```
 **Przykład dopasowania:** _http://net.fajnastrona.go.art.pl/about_
+
 **Nie dopasuje:** _http://go.art.pl/file!.html_ bo zawiera wykrzyknik.
 
 #### Dopasowanie adresu IP
@@ -19,6 +21,7 @@
 ^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$
 ```
 **Przykład dopasowania:** _72.59.122.123_
+
 **Nie dopasuje:** _192.168.1.256_ bo 256 to za duża wartość. Każdy tzw. oktet składa się z 8 bitów czyli wartości od 0 do 255.
 
 
@@ -27,6 +30,7 @@
 ^#?([a-fA-F0-9]{6})$
 ```
 **Przykład dopasowania:** _#abcdef_
+
 **Nie dopasuje:** _#00F99K_ bo heksadecymalne liczba nie zawiera "_K_"
 
 #### Dodatnie i ujemne liczby rzeczywiste
@@ -42,8 +46,11 @@
 ```
 
 **Przykłady dopasowań:**
+
 _1992.07.12_
+
 _1992-07-12_
+
 _1992/07/12_
 
 **Nie dopasuje** dat w foramcie _dd/mm/yyyy_ i *mm/dd/yyyy*
