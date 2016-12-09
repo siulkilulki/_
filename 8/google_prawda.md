@@ -15,18 +15,16 @@
 .
 
 1. Najpierw warto określić **jaki** to jest **typ zdania**.
-W tym wypadku jest to pytanie o __konkretną osobę__.
-
-Ustalenie typu zdania pozwala nam zawężyć pole wyszukiwań i prześć do bardziej sprecyzowanego pytania w kolejnym punkcie.
-<br>
+<br>W tym wypadku jest to pytanie o __konkretną osobę__.
+<br>Ustalenie typu zdania pozwala nam zawężyć pole wyszukiwań i prześć do bardziej sprecyzowanego pytania w kolejnym punkcie.
 
 2. Następnie algorytm powinnien ustalić **o kogo pytamy**.
-Pytamy o __prezydenta Poznania__.
+<br>Pytamy o __prezydenta Poznania__.
+<br>Wciąż nie wiemy o którego __prezydenta Poznania__ pytamy. To indukuje kolejne pytanie.
 
-Wciąż nie wiemy o którego __prezydenta Poznania__ pytamy. To indukuje kolejne pytanie.
-<br>
 
-3. W następnej kolejności ustalamy o __jakiego__ prezydenta Poznania pytamy? O prezydenta **przed Jackiem Jaśkowiakiem**.
+3. W następnej kolejności ustalamy o __jakiego__ prezydenta Poznania pytamy? 
+<br>O prezydenta **przed Jackiem Jaśkowiakiem**.
 
 Bazując na powyższych ustaleniach algorytm wg mnie wciąż miałby ciężkie zadanie.
 Jest to spowodowane dość ciężkim pytaniem, ponieważ tak naprawdę nie interesuje nas **Jacek Jaśkowiak** tylko __jego poprzednik__.
