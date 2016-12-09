@@ -2,22 +2,30 @@
 
 #### Podam przykład zdania i opiszę jaka strategia przetwarzania tego zdania mogłaby być pomocna w odszukaniu bardziej adekwatnych odpowiedzi.
 .
+
 .
+
 .
 
 ![alt text](http://i.imgur.com/S1QnFno.png)
 .
+
 .
+
 .
 
 1. Najpierw warto określić **jaki** to jest **typ zdania**.
 W tym wypadku jest to pytanie o __konkretną osobę__.
+
 Ustalenie typu zdania pozwala nam zawężyć pole wyszukiwań i prześć do bardziej sprecyzowanego pytania w kolejnym punkcie.
 <br>
+
 2. Następnie algorytm powinnien ustalić **o kogo pytamy**.
 Pytamy o __prezydenta Poznania__.
+
 Wciąż nie wiemy o którego __prezydenta Poznania__ pytamy. To indukuje kolejne pytanie.
 <br>
+
 3. W następnej kolejności ustalamy o __jakiego__ prezydenta Poznania pytamy? O prezydenta **przed Jackiem Jaśkowiakiem**.
 
 Bazując na powyższych ustaleniach algorytm wg mnie wciąż miałby ciężkie zadanie.
