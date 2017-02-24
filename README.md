@@ -1,2 +1,2 @@
-# Przetwarzanie języka naturalnego
+# Tworzenie Systemów Informatycznych
 Zadania z wykładu
