@@ -1,5 +1,5 @@
 ### Typy informatyków i motywowanie ich
-Inforamatyków podzieliłem na trzy główne typy.
+Inforamatyków podzieliłem na cztery główne typy.
 <br>
 #### Poszukujący samorealizacji
 Pracownik potrzebujący się wykazać. Chce robić coś ekstra, coś trudnego, coś co przyniesie mu uznanie wśród innych.
