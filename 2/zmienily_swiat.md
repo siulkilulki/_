@@ -6,7 +6,7 @@ Pierwszy podłączony do sieci bankomat. Wyobraźcie sobie jakie byłoby bez nic
 
 #### Telefon komórkowy (1973)
 Możliwość rozmowy niemalże z każdego miejsca na odległość to dopiero rewolucja. Umożliwiał to dobrze nam już znany telefon komórkowy. Pierwszy telefon wprowadziła Motorola. DynaTAC ważył 0,8kg i miał wymiar cegły.
-![tel][tel.png]
+![tel](tel.png)
 
 #### Macintosh (1984)
 Pierwszy komputer, który stał się standardem na przyszłość. Rewolucja w interakcji z komputerem, wygodny okienkowy interfejs.
@@ -21,3 +21,7 @@ Pierwsze satelity, które pomagały ustalić lokalizację pojawiły się między
 Walkman - muzyka, która jest z Tobą wszędzie. Pierwszy raz zaprezentowany przez Sony w 1979 roku.
 
 ![walkman](walkman.png)
+
+#### Smartphone
+Pierwszy smartphone, czyli iPhone, zadebiutował w 2007 roku. Smartphony stały się ulubionym gadżetem ludzi. Ma on około 2.6 biliona użytkowników. Podręczny komputer, coś o czym marzy każdy gadżeciarz i nie tylko!
+![Smartphone](smartphone.png)
