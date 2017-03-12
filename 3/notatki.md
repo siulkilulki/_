@@ -12,10 +12,10 @@ Convertable debt - ja inwestuje i liczę że sprzedamy spółkę. Rzędu kilkuse
 
 * __Venture capital__ - większy start-up, jest sprzedaż, liczy że wejdzie na giełdę lub zostatnie sprzedana, trochę rzadziej liczą na udziały i zarobki.
 ### Elevetor pitch
-** Elevetor pitch ** - (spotkanie w windzie), najkrótsze możliwe przedstawienie swojego interesu.
+**Elevetor pitch** - (spotkanie w windzie), najkrótsze możliwe przedstawienie swojego interesu.
 __Idea__: krótka przemowa przygotowana w głowie, taka że gdy nagle spotkam inwestora to byłbym w czasie jazdy windy przekazać mu pomysł.
 
-** Sentence Elevator Pitch** - jednozdaniowa struktura elevator pitch.
+**Sentence Elevator Pitch** - jednozdaniowa struktura elevator pitch.
 
 Szablon Sentence Elevator Pitch:
 FOR (target customer) WHO HAS (customer need), (product name) IS A (market category) THAT (one key benefit) UNLIKE (competion) THE PROCUCT (unique differentiator)
