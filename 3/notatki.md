@@ -10,8 +10,7 @@ Mamy pomysł, ludzi, ale brak pieniędzy. Potrzeba znaleźć inwestora.
 * __Anioły biznesu__ - dysponują gotówką, prywatne osoby, początkowe pieniądze na start-up w zamian za procent udziału. W cale nie dąży do tego by mieć więkoszość udziałów, nie chce podejmować decyzji wiążących. Decyzje podejmują ci co mają większość udziałów. Jak inwestor chce wziąć większość to dobrze, bo my nie musimy podejmować decyzji.
 Convertable debt - ja inwestuje i liczę że sprzedamy spółkę. Rzędu kilkuset tysięcy złotych.
 
-* __Venture capital__ - większy start-up, jest sprzedaż, liczą na udziały i zarobki lub częściej liczy że wejdzie na giełdę lub zostatnie sprzedana.
-
+* __Venture capital__ - większy start-up, jest sprzedaż, liczy że wejdzie na giełdę lub zostatnie sprzedana, trochę rzadziej liczą na udziały i zarobki.
 ### Elevetor pitch
 ** Elevetor pitch ** - (spotkanie w windzie), najkrótsze możliwe przedstawienie swojego interesu.
 __Idea__: krótka przemowa przygotowana w głowie, taka że gdy nagle spotkam inwestora to byłbym w czasie jazdy windy przekazać mu pomysł.
@@ -34,7 +33,7 @@ Dla studentów, którzy mają mało żywności w lodówce, Obiadoszukajka która
 
 **Slajdy:**
 * Pierwszy slajd: porwać publiczność.
-* Przestawić problem z którym na chiwlę obecną nie radzi sobie klient
+* Przestawić problem z którym na chwwię obecną nie radzi sobie klient
 Mówimy o problemie ludzkości nie swoim.
 
 * Pokazać rozwiązanie, które będzie lekarstwem na problemy.
@@ -52,9 +51,8 @@ Slajd dotyczący prognozy finansowej.
 
 ### Biznes plan
 Biznes plan składa się:
-* części biznes planu, spis treści,
+* spis treści,
 * mówimy o zespole lub o firmie, historia, powstanie, stan finansowy, referencje, jaki związek teamu z projektem,
 * opis produktu, jak działa
 * użytkownicy, kiedy aktualizcje, jak długo użytkownic się go uczą itd.
 * wydatki
-*
