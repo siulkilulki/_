@@ -25,4 +25,4 @@
 ## Tip:
 
 Jeśli chodzi o poznań to warto zaglądać na **startup.poznan.pl**.
-W szczególności w zakładce kalendarz są wydarzenia. Uczęszczanie na takie wydarzenia jest doskonałym sposobem na nawizanie kontaktów, co później niezwykle pomaga przy szukaniu inwestora.
+W szczególności w zakładce kalendarz są wydarzenia. Uczęszczanie na takie wydarzenia jest doskonałym sposobem na nawiązanie kontaktów, które później mogą okazać się niezwykle pożyteczne przy szukaniu inwestora.
