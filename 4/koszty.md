@@ -9,6 +9,7 @@ Należy wykonać:
 * testy aplikacji - ok. 10h
 
 **Czas łączny: 60h**
+
 **Koszt łączny: 6000zł**
 
 
@@ -24,6 +25,5 @@ Plan:
 
 
 **Czas łączny: 600h**
+
 **Koszt łączny: 60000zł**
-
-
